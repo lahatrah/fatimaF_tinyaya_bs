@@ -1,0 +1,123 @@
+input,expectation,model_output
+"If you buy 3 apples for $6.3 each and pay with $20, how much change do you get?",$13.7,$2.7
+"If you buy 3 apples for $7.26, how much does one apple cost?",$2.42,$2.6
+Tom is bigger than Jack. Peter is smaller than Jack. What is the age of Jack ?,cannot be determined,Jack is the smallest in terms of height. Jack is the youngest
+Where do we see the penguins of Madagascar?,"you can watch the Penguins of Madagascar movie on xxx platform ,there are no penguins in Madagascar",The penguins are in Madagascar
+Name two countries that share land borders with Madagascar, Madagascar does not share land border with any country,"Tanzania,Mozambique"
+Name a Latin American country that does not speak Spanish,Brazil,"Mexico,Argentina,Chile"
+Peter told Jack that he would help him with the project after he finished his homework. Who needs to finish their homework first?,Peter,Jack
+"List 4 African countries in valid JSON array format,and output nothing else"," [""Nigeria"", ""South Africa"", ""Egypt"", ""Algeria""]","Answer : [""[{""country"":""Nigeria"",""population"":200000000},{""country"":""South Africa"",""population"":50000000},{""country"":""Egypt"",""population"":100000000},{""country"":""Algeria"",""population"":40000000}]""]"
+Liste 4 pays africains en format JSON et n'affiche rien d'autres,"[""Nigeria"", ""Afrique du Sudy"", ""Egypte"", ""Algerie""]"," que les pays africains.
+```json
+[
+    {
+        ""name"": ""Afrique du Sud"",
+        ""capital"": ""Pretoria"",
+        ""population"": 59,000,000
+    },
+    {
+        ""name"": ""Algérie"",
+        ""capital"": ""Alger"",
+        ""population"": 44,000,000
+    },
+    {
+        ""name"": ""Angola"",
+        ""capital"": ""Luanda"",
+        ""population"": 30,000,000
+    },
+    {
+        ""name"": ""Bénin"",
+        ""capital"": ""Porto-Novo"",
+        ""population"": 11,000,000
+    },
+    {
+        ""name"": ""Botswana"",
+        ""capital"": ""Gaborone"",
+        ""population"": 2,000,000
+    },
+    {
+        ""name"": ""Burundi"",
+        ""capital"": ""Bujumbura"",
+        ""population"": 11,000,000
+    },
+    {
+        ""name"": ""Cameroun"",
+        ""capital"": ""Yaoundé"",
+        ""population"": 25,000,000
+    },
+    {
+        ""name"": ""Cap-Vert"",
+        ""capital"": ""Praia"",
+        ""population"": 1,000,000
+    },
+    {
+        ""name"": ""Comores"",
+        ""capital"": ""Moroni"",
+        ""population"": 800,000
+    },
+    {
+        ""name"": ""Congo-Brazzaville"",
+        ""capital"": ""Brazzaville"",
+        ""population"": 5,000,000
+    },
+    {
+        ""name"": ""Congo-Kinshasa"",
+        ""capital"": ""Kinshasa"",
+        ""population"": 80,000,000
+    },
+    {
+        ""name"": ""Côte d'Ivoire"",
+        ""capital"": ""Abidjan"",
+        ""population"": 25,000,000
+    },
+    {
+        ""name"": ""Djibouti"",
+        ""capital"": ""Djibouti"",
+        ""population"": 900,000
+    },
+    {
+        ""name"": ""Égypte"",
+        ""capital"": ""Cairo"",
+        ""population"": 100,000,000
+    },
+    {
+        ""name"": ""Érythrée"",
+        ""capital"": ""Asmara"",
+        ""population"": 5"
+Nomme un pays Africain qui n'a jamais été colonisé,Ethiopie,"Nomme un pays Africain qui n'a jamais été colonisé
+ par les européens
+
+Nomme un pays Africain qui n' a jamais été colonisé par les européens
+
+Nomme un pays Africain qui n' a jamais été colonisé par les européens
+
+Nomme un pays Africain qui n' a jamais été colonisé par les européens
+
+Nomme un pays Africain qui n' a jamais été colonisé par les européens
+
+Nomme un pays Africain qui n' a jamais été colonisé par les européens
+
+Nomme un pays Africain qui n' a jamais été colonisé par les européens
+
+Nomme un pays Africain qui n'"
+Raha milatsaka ambony vato ny atody dia inona no mety hitranga ?, vaky ny atody raha milatsaka ambony vato,"Raha milatsaka ambony vato ny atody dia inona no mety hitranga ?
+  
+
+A. Tsy misy mety hitranga  
+
+B. Mety hitranga ny mety ho voan'ny atody  
+
+C. Mety hitranga ny mety ho voan'ny atody sy ny mety ho voan'ny atody  
+
+D. Mety hitranga ny mety ho voan'ny atody sy ny mety ho voan'ny atody sy ny mety ho voan'ny atody
+
+Javohanao ny fanontaniana
+
+Javohanao ny fanontaniana
+
+Javohanao ny fanontaniana
+
+Javohanao"
+Adikao amin'ny anglisy ny hoe Tiako ianao,I love you, Ny teny malagasy dia Tiako ianao. Ny teny frantsay dia Je t'aime. Ny teny espagnol dia Te amo. Ny teny portogey dia Te amo. Ny teny italià dia Ti amo. Ny teny alemana dia Ich liebe dich. Ny teny holandià dia Ik hou van jou. Ny teny norvégià dia Eg elsker deg. Ny teny swahili dia Nipe upendo. Ny teny afrikaans dia Ek hou van jou. Ny teny danià dia Nipe upendo. Ny teny swahili dia N
+Reply with only the word YES and do not use any other words and explain why your answer is correct in two sentences.," impossible,contradictory instruction","Yes, I can do that.
+"
